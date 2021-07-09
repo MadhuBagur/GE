@@ -1,2 +1,0 @@
-- name: LFS-warning
-  uses: ActionsDesk/lfs-warning@v2.0
